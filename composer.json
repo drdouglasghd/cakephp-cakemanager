@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "cakephp/cakephp": "~3.0.*",
+        "cakephp/cakephp": "3.0.6",
         "cakemanager/cakephp-utils": "dev-master"
     },
     "extra": {
